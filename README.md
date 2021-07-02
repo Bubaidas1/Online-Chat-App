@@ -29,6 +29,12 @@ Update Profile Module
 
 	Exit App Module
 
+screen shot
+![Screenshot_1622488999](https://user-images.githubusercontent.com/61710709/124334067-962b9680-dbb3-11eb-98a3-542aa59cd206.png)
+![Screenshot_1622489006](https://user-images.githubusercontent.com/61710709/124334096-aba0c080-dbb3-11eb-8fd9-4c80348d53d4.png)
+![Screenshot_1622490434](https://user-images.githubusercontent.com/61710709/124334122-c07d5400-dbb3-11eb-8d2d-d6de7a7d4633.png)
+![Screenshot_1625264983](https://user-images.githubusercontent.com/61710709/124334136-ce32d980-dbb3-11eb-9f17-03bd1b6d16d6.png)
+![Screenshot_1622490234](https://user-images.githubusercontent.com/61710709/124334160-dbe85f00-dbb3-11eb-931c-cfe02d9ffba3.png)
 
 
 
