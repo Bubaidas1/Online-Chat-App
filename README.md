@@ -1,4 +1,4 @@
-hi i am supriyo kumar dey 
+hi i am Bubai das 
 make this andriod online chat application using flutter.
 
 requirement
